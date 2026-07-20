@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building responsive and web applications .<br>👯 I’m looking to collaborate on: Open-source Frontend projects and innovative Hackathons.<br>🤝 I’m looking for help with:<br>Learning backend development, cloud computing, and other related technologies.<br>🌱 I’m currently learning: Full Stack Development, Cloud Computing, and optimizing workflows with GitHub Copilot.<br>💬 Ask me about: HTML, CSS, JavaScript, Java, SQL, C++.<br>🛠️ Tech Stack:<br>Languages: JavaScript (ES6+), HTML5, CSS3, C++,java.<br>Frameworks/Libraries: React.js, Tailwind CSS, Bootstrap.<br>Tools: Git, GitHub, VS Code, Canva,Figma<br>🏆 Achievements:<br>✅ Verified GitHub Student Developer 🎓<br>🎓 Second Year Software Engineering Student at HITMS.<br>
+🔭 I’m currently working on: Building responsive and web applications .<br>👯 I’m looking to collaborate on: Open-source Frontend projects and innovative Hackathons.<br>🤝 I’m looking for help with:<br>Learning backend development, cloud computing, and other related technologies.<br>🌱 I’m currently learning: Full Stack Development, Cloud Computing, and optimizing workflows with GitHub Copilot.<br>💬 Ask me about: HTML, CSS, JavaScript, Java, SQL, C++.<br>🛠️ Tech Stack:<br>Languages: JavaScript (ES6+), HTML5, CSS3, C++,java.<br>Frameworks/Libraries: React.js, Tailwind CSS, Bootstrap.<br>Tools: Git, GitHub, VS Code, Canva,Figma<br>🏆 Achievements:<br>✅ Verified GitHub Student Developer 🎓<br>🎓 
+Third Year Software Engineering Student at HITMS.<br>
 
 
 ## 🌐 Socials:
